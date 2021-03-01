@@ -1,7 +1,7 @@
 <h1 align="center">
   <img alt="NLW4" src="https://res.cloudinary.com/viniciusalvesdefaria/image/upload/v1614628590/NLW4/trilhanode_logo_qv9fit.jpg" width="400px" />
 </h1>
-<p align= "center">:man_astronaut: An repository visioning the development of an API using NodeJs who sends satisfaction surveys in the users emails and than calculate :man_astronaut: the NPS from a certain company. </p>
+<p align= "center">:man_astronaut: An repository visioning the development of an API using NodeJs who sends satisfaction surveys in the users emails :man_astronaut: and than calculate the NPS from a certain company. </p>
 
 <h4 align="center"> 
 	:construction:  Next Level Week 4 | Node Trail by Rocketseat  :rocket: | | In development  :construction:
